@@ -1,0 +1,209 @@
+2018-07-24 17:16:05,483 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-24 17:16:05,499 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-24 17:18:55,850 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-07-24 17:18:56,093 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-07-24 18:25:24,398 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-07-24 18:25:24,398 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-07-24 18:25:50,969 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-24 18:25:50,969 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-24 18:26:59,892 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Deleting mobile with mentioned ID.
+2018-07-24 18:27:00,184 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info for mentioned ID deleted successfully.
+2018-07-24 18:27:10,289 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-24 18:27:10,289 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-24 18:42:35,335 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-07-24 18:42:35,585 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-07-24 18:43:02,212 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-07-24 18:43:02,212 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-07-24 18:43:37,449 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-07-24 18:43:37,449 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-07-24 18:43:53,823 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-24 18:43:53,823 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-24 18:46:58,276 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-24 18:46:58,276 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-24 18:50:50,962 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-24 18:50:50,962 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-24 18:51:01,441 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Deleting mobile with mentioned ID.
+2018-07-24 18:51:01,571 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info for mentioned ID deleted successfully.
+2018-07-24 18:51:10,283 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Deleting mobile with mentioned ID.
+2018-07-24 18:51:10,285 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info for mentioned ID deleted successfully.
+2018-07-24 18:51:50,390 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-07-24 18:51:50,390 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-07-24 18:51:54,622 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-24 18:51:54,622 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-24 18:52:25,511 ERROR [com.capgemini.mobilepurchaseapp.client.MobileAppMainClient] - Email ID validation failed
+2018-07-24 18:52:54,438 ERROR [com.capgemini.mobilepurchaseapp.client.MobileAppMainClient] - Email ID validation failed
+2018-07-24 18:53:44,965 ERROR [com.capgemini.mobilepurchaseapp.client.MobileAppMainClient] - Email ID validation failed
+2018-07-24 18:58:38,453 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-24 18:58:38,453 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-24 18:58:51,937 ERROR [com.capgemini.mobilepurchaseapp.client.MobileAppMainClient] - Mobile ID validation failed.
+2018-07-24 18:59:22,110 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-24 18:59:22,110 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-24 18:59:26,402 ERROR [com.capgemini.mobilepurchaseapp.client.MobileAppMainClient] - Mobile ID validation failed.
+2018-07-24 19:00:07,906 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-24 19:00:07,906 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-24 19:00:13,072 ERROR [com.capgemini.mobilepurchaseapp.client.MobileAppMainClient] - Mobile ID validation failed.
+2018-07-31 19:35:51,745 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-31 19:35:51,745 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-31 19:35:56,609 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile ID validation failed.
+2018-07-31 19:44:06,517 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-31 19:44:06,518 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-31 19:44:09,906 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile ID validation failed.
+2018-07-31 19:58:07,553 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-31 19:58:07,553 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-31 19:58:11,078 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-07-31 19:58:11,078 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-07-31 20:02:13,004 ERROR [com.capgemini.mobilepurchaseapp.client.MobileAppMainClient] - Email ID validation failed
+2018-07-31 20:02:40,129 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-31 20:02:40,129 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-31 20:02:43,411 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-07-31 20:02:43,411 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-07-31 20:02:43,413 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-07-31 20:02:43,436 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-07-31 20:10:22,031 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-31 20:10:22,031 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-31 20:10:25,380 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-07-31 20:10:25,380 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-07-31 20:10:25,388 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-07-31 20:10:25,404 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-07-31 22:22:24,153 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-31 22:22:24,153 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-31 22:22:28,974 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-07-31 22:22:28,974 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-07-31 22:22:28,983 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-07-31 22:22:29,010 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-07-31 22:30:50,427 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-31 22:30:50,428 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-31 22:30:53,503 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-07-31 22:30:53,503 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-07-31 22:30:53,520 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-07-31 22:30:53,544 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-07-31 22:34:03,249 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-31 22:34:03,249 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-31 22:34:51,119 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-07-31 22:34:51,119 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-07-31 22:34:59,750 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-31 22:34:59,750 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-31 22:35:38,463 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-07-31 22:35:38,465 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-07-31 23:00:12,352 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-31 23:00:12,352 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-07-31 23:00:14,788 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-07-31 23:00:14,788 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-07-31 23:00:14,788 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-07-31 23:00:14,815 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-07-31 23:58:26,510 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-07-31 23:58:26,510 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-07-31 23:58:36,053 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-07-31 23:58:36,053 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-08-01 00:00:28,570 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-08-01 00:00:28,571 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-08-01 00:00:31,363 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-08-01 00:00:31,363 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-08-01 00:01:10,553 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-08-01 00:01:10,553 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-08-01 00:01:30,693 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Deleting mobile with mentioned ID.
+2018-08-01 00:01:30,696 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info for mentioned ID deleted successfully.
+2018-08-01 00:01:56,249 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Deleting mobile with mentioned ID.
+2018-08-01 00:01:56,264 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info for mentioned ID deleted successfully.
+2018-08-01 00:02:01,758 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-08-01 00:02:01,758 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-08-01 00:02:16,591 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-08-01 00:02:16,599 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-08-01 00:02:26,300 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-08-01 00:02:26,302 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-08-01 00:02:51,817 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-08-01 00:02:51,817 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-08-01 00:02:57,760 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-08-01 00:02:57,760 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-08-01 00:02:57,780 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-08-01 00:02:57,797 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-08-01 00:06:34,692 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-08-01 00:06:34,692 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-08-01 00:06:37,165 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-08-01 00:06:37,165 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-08-01 00:06:37,165 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-08-01 00:06:37,193 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-08-01 09:03:06,030 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-08-01 09:03:06,030 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-08-01 09:03:10,090 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-08-01 09:03:10,090 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-08-01 09:03:10,092 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-08-01 09:03:10,120 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-08-01 09:17:27,656 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-08-01 09:17:27,657 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-08-01 09:18:15,246 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-08-01 09:18:15,246 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-08-01 09:24:44,281 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-08-01 09:24:44,281 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-08-01 09:24:44,290 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-08-01 09:24:44,298 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-08-01 09:24:44,340 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-08-01 09:24:44,340 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-08-01 09:24:53,921 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-08-01 09:24:54,112 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-08-01 09:29:35,011 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-08-01 09:29:35,269 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-08-01 09:29:35,349 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-08-01 09:29:35,349 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-08-01 09:29:35,356 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-08-01 09:29:35,391 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-08-01 09:29:35,406 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-08-01 09:29:35,406 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-08-01 09:29:44,691 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-08-01 09:29:44,918 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-08-01 09:35:39,673 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-08-01 09:35:39,673 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-08-01 09:35:39,682 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-08-01 09:35:39,700 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-08-01 09:35:39,718 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-08-01 09:35:39,806 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-08-01 09:35:39,822 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-08-01 09:35:39,822 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-08-01 09:35:54,307 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-08-01 09:35:54,620 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-08-01 09:37:40,256 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-08-01 09:37:40,454 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-08-01 09:37:40,493 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-08-01 09:37:40,493 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-08-01 09:37:40,493 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-08-01 09:37:40,552 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-08-01 09:37:40,569 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-08-01 09:37:40,569 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-08-01 09:37:47,681 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-08-01 09:37:48,003 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-08-01 09:38:06,022 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-08-01 09:38:06,323 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-08-01 09:44:54,773 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-08-01 09:44:55,072 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-08-01 09:44:55,172 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-08-01 09:44:55,172 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-08-01 09:44:55,174 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-08-01 09:44:55,225 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-08-01 09:44:55,241 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-08-01 09:44:55,241 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-08-01 09:44:55,256 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-08-01 09:44:55,259 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-08-01 09:45:06,570 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-08-01 09:45:06,570 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-08-01 09:48:29,020 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-08-01 09:48:29,380 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-08-01 09:48:29,393 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-08-01 09:48:29,393 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
+2018-08-01 09:48:29,401 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-08-01 09:48:29,401 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-08-01 09:48:29,415 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-08-01 09:48:29,415 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-08-01 09:48:29,420 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-08-01 09:48:29,426 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-08-01 09:53:07,648 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile quantity getting updated in database. 
+2018-08-01 09:53:07,840 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Updation of mobile quantity done successfully.
+2018-08-01 09:53:07,939 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info inserting into database. 
+2018-08-01 09:53:07,942 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile info insertion operation performed successfully
+2018-08-01 09:53:07,955 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Inserting Customer Purchase Details into Database.
+2018-08-01 09:53:07,964 ERROR [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - CustomerPurchaseDetails updation failed.
+2018-08-01 09:53:07,977 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Searching mobiles in mentioned range.
+2018-08-01 09:53:07,996 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Search Operation performed successfully
+2018-08-01 09:53:08,000 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Retrived all mobiles info.
+2018-08-01 09:53:08,000 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - All mobiles info retrived successfully.
+2018-08-01 09:53:08,003 INFO [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - MobileID fetched from database.
+2018-08-01 09:53:08,003 DEBUG [com.capgemini.mobilepurchaseapp.dao.MobileAppDaoImpl] - Mobile with mentioned ID retrived successfully.
